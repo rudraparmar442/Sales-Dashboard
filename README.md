@@ -47,7 +47,7 @@ pip install pandas matplotlib
 
 # Power BI
 # Open Sales_Dashboard.pbix in Power BI Desktop
-<img width="1268" height="716" alt="image" src="https://github.com/user-attachments/assets/eb71ac6b-3c05-49b5-b230-9a2aaf094368" />
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/eb71ac6b-3c05-49b5-b230-9a2aaf094368)
 
 ```
 
