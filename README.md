@@ -36,6 +36,8 @@ presented via an interactive Power BI dashboard.
 
 ---
 
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/eb71ac6b-3c05-49b5-b230-9a2aaf094368)
+
 ##  How to Run
 ```bash
 # Install dependencies
@@ -47,7 +49,7 @@ pip install pandas matplotlib
 
 # Power BI
 # Open Sales_Dashboard.pbix in Power BI Desktop
-![Sales Performance Dashboard](https://github.com/user-attachments/assets/eb71ac6b-3c05-49b5-b230-9a2aaf094368)
+
 
 ```
 
